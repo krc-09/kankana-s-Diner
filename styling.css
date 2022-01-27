@@ -1,0 +1,15 @@
+body{
+    font-family: sans-serif;
+}
+.gallery h1{
+    text-align: center;
+    color: aquamarine;
+    margin: 30px;
+}
+.gallery{
+    margin: 10px 50px;
+}
+.gallery img{
+    width: 230px;
+    padding: 5px;
+}
